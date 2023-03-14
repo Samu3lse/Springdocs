@@ -50,7 +50,7 @@
     e cria um ponto de extremidade de serviço da Web para buscas.
 ````
 
-### ComponentScan
+### @ComponentScan
 
 ````
     Usamos a anotação @ComponentScan junto com a anotação
